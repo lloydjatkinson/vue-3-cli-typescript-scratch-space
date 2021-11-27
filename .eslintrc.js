@@ -35,6 +35,8 @@ module.exports = {
             singleline: 'never',
             multiline: 'never',
         }],
+
+        'vue/multi-word-component-names': 'off',
     },
     overrides: [
         {

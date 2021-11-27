@@ -1,0 +1,103 @@
+[
+    {
+      "text": "Which popular Christmas beverage is also called \"milk punch\"?",
+      "options": ["Eggnog", "Vodka and rum", "Warm milk"],
+      "correct": 1
+    },
+    {
+      "text": "Who was the author of A Christmas Carol?",
+      "options": [
+        "Mark Twain",
+        "Jane Austen",
+        "Charles Dickens",
+        "Ernest Hemingway"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Was Rudolph in the story \"Twas the Night Before Christmas?\"",
+      "options": ["Yes", "No"]
+    },
+    {
+      "text": "Was Rudolph in the story \"Twas the Night Before Christmas?\"",
+      "options": ["Yes", "No"],
+      "correct": 1
+    },
+    {
+      "text": "Who helped Rudolph after he left the North Pole?",
+      "options": [
+        "Hermey the Elf and Yukon Cornelius",
+        "Frosty the Snowman and Scrooge",
+        "The Little Drummer Boy and John McClane"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Who played George Bailey in It’s a Wonderful Life?",
+      "options": ["Jimmy Stewart", "Tom Hanks", "Brad Pitt"],
+      "correct": 0
+    },
+    {
+      "text": "How does Santa climb up the chimney after delivering your presents?",
+      "options": [
+        "With his magic socks",
+        "Rubs his knees and says abracadabda",
+        "Touches his nose, smiles, and nods"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Where are the stockings usually hung?",
+      "options": [
+        "Above the fireplace",
+        "On the Christmas tree",
+        "On the roof so Santa can see them"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "What were mince pies originally made with?",
+      "options": [
+        "Beef and spices",
+        "Pork and potatoes",
+        "Carrots and leek",
+        "Onion and cheese"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Why does Santa have three gardens?",
+      "options": [
+        "So he can \"Ho ho ho\"",
+        "Because he grows the world supply of Brussel Sprouts",
+        "So he can feed all his Reindeer with carrots"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "What is the best Christmas present?",
+      "options": [
+        "A broken drum, you can't beat it!",
+        "As much Christmas pudding as you want"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "What is the best Christmas present?",
+      "options": [
+        "A broken drum, you can't beat it!",
+        "As much Christmas pudding as you want"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Name the building the first Die Hard took place in ?",
+      "options": [
+        "Fortune Plaza",
+        "Hiraki Plaza",
+        "Nakatomi Plaza",
+        "Peace Plaze"
+      ],
+      "correct": 2
+    }
+]  
