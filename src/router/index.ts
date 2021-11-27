@@ -1,11 +1,17 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router';
 import HomeView from '../views/HomeView.vue';
+import QuizRenderlessScopedSlotsView from '../features/quiz-renderless-scoped-slots/views/QuizRenderlessScopedSlotsView.vue';
 
 const routes: Array<RouteRecordRaw> = [
     {
         path: '/',
-        name: 'home',
+        name: 'Home',
         component: HomeView,
+    },
+    {
+        path: '/quiz',
+        name: 'Quiz',
+        component: QuizRenderlessScopedSlotsView,
     },
     {
         path: '/about',
